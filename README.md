@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i don't have any idea what should i type here..?
 
+[Twitter- @Priteshlad](https://twitter.com/Priteshlad11)
