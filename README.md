@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritesh88&label=Profile%20views&color=0e75b6&style=flat" alt="pritesh88" /> </p>
 
-- 🌱 I’m currently learning **Network Security.**
+- 🌱 I’m currently learning **Full stack development.**
 
 - 📫 How to reach me **priteshlad6822@gmail.com**
 
