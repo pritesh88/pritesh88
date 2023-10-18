@@ -1,3 +1,5 @@
+![logo](https://github.com/pritesh88/pritesh88/blob/main/GitHub%20Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Pritesh Lad</h1>
 <h3 align="center">A Passionate Software Developer from India.</h3>
 
