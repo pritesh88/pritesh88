@@ -1,9 +1,11 @@
+![logo](https://github.com/pritesh88/pritesh88/blob/main/GitHub%20Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Pritesh Lad</h1>
 <h3 align="center">A Passionate Software Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritesh88&label=Profile%20views&color=0e75b6&style=flat" alt="pritesh88" /> </p>
 
-- 🌱 I’m currently learning **Network Security.**
+- 🌱 I’m currently learning **Devops.**
 
 - 📫 How to reach me **priteshlad6822@gmail.com**
 
