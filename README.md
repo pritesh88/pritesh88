@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **priteshlad6822@gmail.com**
 
-- ⚡ Fun fact **The FireFox Logo isn't a Fox.**
+- ⚡ Fun fact **An AI-generated artwork sold for $432,500 at Christie’s in 2018.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
